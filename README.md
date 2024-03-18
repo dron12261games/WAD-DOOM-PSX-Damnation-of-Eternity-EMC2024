@@ -1,7 +1,7 @@
 # WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024
 
 # DOOM PSX: Damnation of Eternity [1 Level, Eternity Engine 4.03 UDMF, DOOM 2]
-## [EMC2024 Modern](http://i.iddqd.ru/viewtopic.php?t=2492) Winner (Silver)
+## 🏆 ENDOOM Mapping Contest 2024 Modern Winner (Silver 🥈) 🏆
 
 # STATUS: ✅RELEASED
 
