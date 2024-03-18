@@ -1,0 +1,69 @@
+* Credits / Special Thanks * 
+
+--------- Main ----------
+All Mapping, Idea, Coding, Design and Balance by Dron12261
+
+Big ColormapPack by Dron12261 (vplusclr.wad, coloring lighting and fog 
+for Eternity Engine) 
+
+Special thanks to Mordeth and Team Eternity for their regular help with 
+diving into the possibilities and nuances of the Eternity Engine
+
+Special thanks to Endoomer for hosting ENDOOM Mapping Contest 2024
+------------------------
+
+--- DOOM PSX Assets ----
+Compiled/converted by DRON12261
+
+Resources taken from:
+DOOM PSX
+DOOM 64 REMASTERED
+DOOM PSX TC
+DOOM PSX GEC Master Edition
+DOOM PSX for Vanilla Doom
+PSX DOOM: The Forgotten Chapter by Dantosking
+------------------------
+
+------ Textures --------
+PSX Textures - DOOM PSX (PSX_TEX.pke, extracted and converted by Dron12261)
+Icon of Sin Head (ICONHEAD) - jimmytex by Jimmy Paddock
+Source-port Warning texture (PORTWRND) - Dron12261
+PORTAL texture - Heartland by Skillsaw
+------------------------
+
+--- Music and Sound ----
+DOOM PSX Main Theme - Cover by DAR (original by Aubrey Hodges) [Main Menu]
+The Broken Ones - Cover by DAR (original by Aubrey Hodges) [Boss Battle]
+Retribution Dawns - Cover by DAR (original by Aubrey Hodges) [Main OST]
+Finale - Cover by DAR (original by Aubrey Hodges) [Final, Intermission]
+
+Environment Sounds from Heartland by Skillsaw and Vaporware by Esselfortium
+------------------------
+
+------- Monsters -------
+Plasma Zombie:
+Sprites - id Software, Tormentor667, Captain Toenail, Ghastly Dragon
+
+Lord of Heresy:
+Sprites - id Software, Vader, Tormentor667
+
+Ghoul:
+Sprites - id Software, 00_Zombie_00
+
+Annihilator:
+Sprites - id Software, Raven Software, Wolfendoom, Eriance/Amuscaria, Dron12261
+Sounds - id Software, Midway
+
+Hellion:
+Sprites - id Software, Eriance/Amuscaria, Dron12261
+Sounds - id Software
+
+Cacobald:
+Sprites - BreadBagFly
+Sounds - Raven Software, Eriance/Amuscaria
+------------------------
+
+-------- Items ---------
+Light Armor:
+Sprites - id Software, Dron12261
+------------------------
