@@ -18,6 +18,7 @@ Except that it will be necessary to drop doom2.wad in the folder with the port, 
 
 ### Download - [Latest Release](https://github.com/dron12261games/WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024/releases/download/v1.1/PSXDAMN.user-friendly.version.zip)
 
+# Additional links:
 ENDOOM Mapping Contest 2024:
 - Doom Power ([Contest itself](http://i.iddqd.ru/viewtopic.php?t=2492), [Results with maps](http://i.iddqd.ru/viewtopic.php?p=139482#139482))
 
