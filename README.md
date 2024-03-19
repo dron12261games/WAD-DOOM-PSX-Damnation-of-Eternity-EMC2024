@@ -9,7 +9,7 @@ For detailed credit, see the CREDITS.TXT file.
 
 This version is no different in gameplay and balance than the one in the contest archive with the exception of:
 - DEMO is disabled in the menu
-- Fixed interface, menu and weapon sprites (now correct aspect ratio)
+- Fixed interface, menu and weapon sprites (now correct aspect ratio, and new ssg sprite)
 - All compiled into a single .pke
 
 The archive contains the project itself (.pke), a ready customized build of the required version of Eternity Engine 4.03 (Jan 4, 2024 build), readmys with detailed information in two languages and .bat for quick start (unzip and play).
