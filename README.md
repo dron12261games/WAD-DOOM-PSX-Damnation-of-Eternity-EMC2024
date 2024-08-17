@@ -9,14 +9,14 @@ For detailed credit, see the CREDITS.TXT file.
 
 This version is no different in gameplay and balance than the one in the contest archive with the exception of:
 - DEMO is disabled in the menu
-- Fixed interface, menu and weapon sprites (now correct aspect ratio)
+- Fixed interface, menu and weapon sprites (now correct aspect ratio, and new ssg sprite)
 - All compiled into a single .pke
 
 The archive contains the project itself (.pke), a ready customized build of the required version of Eternity Engine 4.03 (Jan 4, 2024 build), readmys with detailed information in two languages and .bat for quick start (unzip and play).
 
 Except that it will be necessary to drop doom2.wad in the folder with the port, or at the first launch specify your own folder with iwads
 
-### Download - [Latest Release](https://github.com/dron12261games/WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024/releases/download/v1.1/PSXDAMN.user-friendly.version.zip)
+### Download - [Latest Release](https://github.com/dron12261games/WAD-DOOM-PSX-Damnation-of-Eternity-EMC2024/releases/download/v1.2/PSXDAMN.v1.2.zip)
 
 # Additional links:
 ENDOOM Mapping Contest 2024:
